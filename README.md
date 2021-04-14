@@ -1,8 +1,5 @@
-### Hola, soy Ls, también conocido como Minino 😺😺
 
-## Soy estudiante, Developer y me encantan los gatos!! 😺😺
-
-- 🚀 Soy estudiante de ultimo semestre de la carrera "Ingeniaría de Sistemas y computación"
+- 🚀 Soy Bachiller de "Ingeniaría de Sistemas y computación"
 - [<img align="left" alt="Visual Studio Code" width="26px" src="https://media.discordapp.net/attachments/784925532973695018/800116664091541565/java.png?width=839&height=559" />][web] Mi primer lenguje de programacion fue Java.
 - 🚀 Me encanta aprender todo lo que tenga que ver con el entorno tecnologico y aun mas el desarrollo.
 - 😺 Me gustan los retos.
