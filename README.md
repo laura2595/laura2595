@@ -1,8 +1,7 @@
 
 - 🚀 Soy Bachiller de "Ingeniaría de Sistemas y computación"
-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://media.discordapp.net/attachments/784925532973695018/800116664091541565/java.png?width=839&height=559" />][web].
-- 🚀 
-- 😺 
+
+
 
 <br />
 
