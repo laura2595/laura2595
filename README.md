@@ -78,7 +78,7 @@ https://undac-gt.herokuapp.com/
 (Para probar la funcionalidad, entrar como egresado y con tu cuenta de google)
 
 <br />
-#### :smiley_cat: Aplicacion Web - Para la Gestion de Proyectos de Aprendizaje de Docentes
+:smiley_cat: Aplicacion Web - Para la Gestion de Proyectos de Aprendizaje de Docentes
 
 https://gezdocentes.vercel.app/
 
